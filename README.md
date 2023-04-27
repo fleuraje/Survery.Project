@@ -50,6 +50,8 @@
     todaysPurchaseCost
 
 
+* my goal with this project is to practice arrays and objects while also pushing all the actions to my github , to get comfortable with posting my professional portfolio .
+
 
 
 Remember too
